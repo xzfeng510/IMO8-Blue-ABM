@@ -1,0 +1,13 @@
+*
+# only allow scource files
+!Framework/*
+!LEARN_HERE/*
+!Testing/*
+!Raf/*
+!Examples/*
+!Testing/*
+!.gitignore
+!HalColorSchemes.jar
+!manual.pdf
+!FrameworkPresentation.pdf
+.DS_Store
